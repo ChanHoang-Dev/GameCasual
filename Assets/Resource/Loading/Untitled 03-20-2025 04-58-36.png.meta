@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: 4ee6cf2de0b73aa4ba9ea297e6a9b0b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2926172951762979286
+    second: Untitled 03-20-2025 04-58-36_0
+  - first:
+      213: 8255704592891415460
+    second: Untitled 03-20-2025 04-58-36_1
+  - first:
+      213: 6451401998461185874
+    second: Untitled 03-20-2025 04-58-36_2
+  - first:
+      213: -3251090977507645766
+    second: Untitled 03-20-2025 04-58-36_3
+  - first:
+      213: 4901868312572304667
+    second: Untitled 03-20-2025 04-58-36_4
+  - first:
+      213: 3268532011164603500
+    second: Untitled 03-20-2025 04-58-36_5
+  - first:
+      213: 1749327828363797209
+    second: Untitled 03-20-2025 04-58-36_6
+  - first:
+      213: 8419370597518035122
+    second: Untitled 03-20-2025 04-58-36_7
+  - first:
+      213: -3002615855101518829
+    second: Untitled 03-20-2025 04-58-36_8
+  - first:
+      213: -5708133554319204144
+    second: Untitled 03-20-2025 04-58-36_9
+  - first:
+      213: 2128277999137383740
+    second: Untitled 03-20-2025 04-58-36_10
+  - first:
+      213: 2097717425872285604
+    second: Untitled 03-20-2025 04-58-36_11
+  - first:
+      213: 5028195410879251896
+    second: Untitled 03-20-2025 04-58-36_12
+  - first:
+      213: -1174669761078106057
+    second: Untitled 03-20-2025 04-58-36_13
+  - first:
+      213: -6129856659766596133
+    second: Untitled 03-20-2025 04-58-36_14
+  - first:
+      213: 4136908428576892783
+    second: Untitled 03-20-2025 04-58-36_15
+  - first:
+      213: 8572719574243631786
+    second: Untitled 03-20-2025 04-58-36_16
+  - first:
+      213: 7807140012202146550
+    second: Untitled 03-20-2025 04-58-36_17
+  - first:
+      213: 1639611905909129757
+    second: Untitled 03-20-2025 04-58-36_18
+  - first:
+      213: 6512087156115087568
+    second: Untitled 03-20-2025 04-58-36_19
+  - first:
+      213: -2859031112499946365
+    second: Untitled 03-20-2025 04-58-36_20
+  - first:
+      213: 81427275917435981
+    second: Untitled 03-20-2025 04-58-36_21
+  - first:
+      213: -8773053150921956101
+    second: Untitled 03-20-2025 04-58-36_22
+  - first:
+      213: 1531244745409410574
+    second: Untitled 03-20-2025 04-58-36_23
+  - first:
+      213: -5422120127980719407
+    second: Untitled 03-20-2025 04-58-36_24
+  - first:
+      213: 2490130251019136673
+    second: Untitled 03-20-2025 04-58-36_25
+  - first:
+      213: 5455899031096601169
+    second: Untitled 03-20-2025 04-58-36_26
+  - first:
+      213: -4739894699172576623
+    second: Untitled 03-20-2025 04-58-36_27
+  - first:
+      213: -3795406247686050107
+    second: Untitled 03-20-2025 04-58-36_28
+  - first:
+      213: 5248929372074847327
+    second: Untitled 03-20-2025 04-58-36_29
+  - first:
+      213: 93988811934660494
+    second: Untitled 03-20-2025 04-58-36_30
+  - first:
+      213: 3939397862396994604
+    second: Untitled 03-20-2025 04-58-36_31
+  - first:
+      213: -4498334728502885890
+    second: Untitled 03-20-2025 04-58-36_32
+  - first:
+      213: 1245392241265765353
+    second: Untitled 03-20-2025 04-58-36_33
+  - first:
+      213: 7890515593213833329
+    second: Untitled 03-20-2025 04-58-36_34
+  - first:
+      213: -1563094773198546192
+    second: Untitled 03-20-2025 04-58-36_35
+  - first:
+      213: -4405621310626127646
+    second: Untitled 03-20-2025 04-58-36_36
+  - first:
+      213: 2043466751240933174
+    second: Untitled 03-20-2025 04-58-36_37
+  - first:
+      213: -5963107945305391063
+    second: Untitled 03-20-2025 04-58-36_38
+  - first:
+      213: -8673740344101530951
+    second: Untitled 03-20-2025 04-58-36_39
+  - first:
+      213: 8041234847331887412
+    second: Untitled 03-20-2025 04-58-36_40
+  - first:
+      213: 3901805077437558225
+    second: Untitled 03-20-2025 04-58-36_41
+  - first:
+      213: -1569802833988093192
+    second: Untitled 03-20-2025 04-58-36_42
+  - first:
+      213: -8861907171383603327
+    second: Untitled 03-20-2025 04-58-36_43
+  - first:
+      213: -4560555801817117199
+    second: Untitled 03-20-2025 04-58-36_44
+  - first:
+      213: -6076170600136069986
+    second: Untitled 03-20-2025 04-58-36_45
+  - first:
+      213: -8194304368405592191
+    second: Untitled 03-20-2025 04-58-36_46
+  - first:
+      213: 1617519877194890226
+    second: Untitled 03-20-2025 04-58-36_47
+  - first:
+      213: -6570179243479850668
+    second: Untitled 03-20-2025 04-58-36_48
+  - first:
+      213: -7155126372886540974
+    second: Untitled 03-20-2025 04-58-36_49
+  - first:
+      213: 7453154971186349769
+    second: Untitled 03-20-2025 04-58-36_50
+  - first:
+      213: -7563411046906141534
+    second: Untitled 03-20-2025 04-58-36_51
+  - first:
+      213: 7601322226791047008
+    second: Untitled 03-20-2025 04-58-36_52
+  - first:
+      213: 6358952173758595372
+    second: Untitled 03-20-2025 04-58-36_53
+  - first:
+      213: -202837625708335028
+    second: Untitled 03-20-2025 04-58-36_54
+  - first:
+      213: -2568991995077856649
+    second: Untitled 03-20-2025 04-58-36_55
+  - first:
+      213: -6103815765978377847
+    second: Untitled 03-20-2025 04-58-36_56
+  - first:
+      213: 4366787043646952917
+    second: Untitled 03-20-2025 04-58-36_57
+  - first:
+      213: -169754557687192307
+    second: Untitled 03-20-2025 04-58-36_58
+  - first:
+      213: -6562626952707233857
+    second: Untitled 03-20-2025 04-58-36_59
+  - first:
+      213: -403198636779362477
+    second: Untitled 03-20-2025 04-58-36_60
+  - first:
+      213: 3427278968055088555
+    second: Untitled 03-20-2025 04-58-36_61
+  - first:
+      213: -8108420342348397164
+    second: Untitled 03-20-2025 04-58-36_62
+  - first:
+      213: 1917250917066696813
+    second: Untitled 03-20-2025 04-58-36_63
+  - first:
+      213: -8365135194318124938
+    second: Untitled 03-20-2025 04-58-36_64
+  - first:
+      213: -1192082392202110217
+    second: Untitled 03-20-2025 04-58-36_65
+  - first:
+      213: -6153614819040714347
+    second: Untitled 03-20-2025 04-58-36_66
+  - first:
+      213: -6243788532684591172
+    second: Untitled 03-20-2025 04-58-36_67
+  - first:
+      213: -7778469199195075804
+    second: Untitled 03-20-2025 04-58-36_68
+  - first:
+      213: 538042961992282019
+    second: Untitled 03-20-2025 04-58-36_69
+  - first:
+      213: 7009861495719002640
+    second: Untitled 03-20-2025 04-58-36_70
+  - first:
+      213: 2794571877826580355
+    second: Untitled 03-20-2025 04-58-36_71
+  - first:
+      213: -8383173717326537448
+    second: Untitled 03-20-2025 04-58-36_72
+  - first:
+      213: -5426945753344741394
+    second: Untitled 03-20-2025 04-58-36_73
+  - first:
+      213: -958263003883365231
+    second: Untitled 03-20-2025 04-58-36_74
+  - first:
+      213: 9185779100945476990
+    second: Untitled 03-20-2025 04-58-36_75
+  - first:
+      213: 1011840382102394132
+    second: Untitled 03-20-2025 04-58-36_76
+  - first:
+      213: 5211254030769449897
+    second: Untitled 03-20-2025 04-58-36_77
+  - first:
+      213: 5073130798596337605
+    second: Untitled 03-20-2025 04-58-36_78
+  - first:
+      213: -417802008236691471
+    second: Untitled 03-20-2025 04-58-36_79
+  - first:
+      213: -1412922695543511754
+    second: Untitled 03-20-2025 04-58-36_80
+  - first:
+      213: 8292006106764452291
+    second: Untitled 03-20-2025 04-58-36_81
+  - first:
+      213: 3397700790611256127
+    second: Untitled 03-20-2025 04-58-36_82
+  - first:
+      213: -5852920624389995963
+    second: Untitled 03-20-2025 04-58-36_83
+  - first:
+      213: -152853382253392931
+    second: Untitled 03-20-2025 04-58-36_84
+  - first:
+      213: 6929720066252547451
+    second: Untitled 03-20-2025 04-58-36_85
+  - first:
+      213: -3045080366742606870
+    second: Untitled 03-20-2025 04-58-36_86
+  - first:
+      213: -7123179901417736323
+    second: Untitled 03-20-2025 04-58-36_87
+  - first:
+      213: -4229901785694773656
+    second: Untitled 03-20-2025 04-58-36_88
+  - first:
+      213: -6917671714564799698
+    second: Untitled 03-20-2025 04-58-36_89
+  - first:
+      213: -6666488085775780447
+    second: Untitled 03-20-2025 04-58-36_90
+  - first:
+      213: 5548011263301087947
+    second: Untitled 03-20-2025 04-58-36_91
+  - first:
+      213: -2613836429131314142
+    second: Untitled 03-20-2025 04-58-36_92
+  - first:
+      213: 1413952731204036227
+    second: Untitled 03-20-2025 04-58-36_93
+  - first:
+      213: 6183198823723322718
+    second: Untitled 03-20-2025 04-58-36_94
+  - first:
+      213: 2588768636526042654
+    second: Untitled 03-20-2025 04-58-36_95
+  - first:
+      213: -7026755206000367762
+    second: Untitled 03-20-2025 04-58-36_96
+  - first:
+      213: 2605637167710534689
+    second: Untitled 03-20-2025 04-58-36_97
+  - first:
+      213: 3715093737605795159
+    second: Untitled 03-20-2025 04-58-36_98
+  - first:
+      213: 5057097636021360831
+    second: Untitled 03-20-2025 04-58-36_99
+  - first:
+      213: 3963784569048852489
+    second: Untitled 03-20-2025 04-58-36_100
+  - first:
+      213: -6675966264196152751
+    second: Untitled 03-20-2025 04-58-36_101
+  - first:
+      213: 3540800496721921958
+    second: Untitled 03-20-2025 04-58-36_102
+  - first:
+      213: -4900338981212085427
+    second: Untitled 03-20-2025 04-58-36_103
+  - first:
+      213: 1843547060665015416
+    second: Untitled 03-20-2025 04-58-36_104
+  - first:
+      213: 8722909599715735178
+    second: Untitled 03-20-2025 04-58-36_105
+  - first:
+      213: -6177932508803678862
+    second: Untitled 03-20-2025 04-58-36_106
+  - first:
+      213: -1777504706676757041
+    second: Untitled 03-20-2025 04-58-36_107
+  - first:
+      213: 4551725809078836491
+    second: Untitled 03-20-2025 04-58-36_108
+  - first:
+      213: 6899307207561754744
+    second: Untitled 03-20-2025 04-58-36_109
+  - first:
+      213: 3285491426076113145
+    second: Untitled 03-20-2025 04-58-36_110
+  - first:
+      213: 8779689010976266692
+    second: Untitled 03-20-2025 04-58-36_111
+  - first:
+      213: -110431318961954612
+    second: Untitled 03-20-2025 04-58-36_112
+  - first:
+      213: -7185540788641519787
+    second: Untitled 03-20-2025 04-58-36_113
+  - first:
+      213: 6656500251910112846
+    second: Untitled 03-20-2025 04-58-36_114
+  - first:
+      213: 6204140043798672946
+    second: Untitled 03-20-2025 04-58-36_115
+  - first:
+      213: 2956537750595637408
+    second: Untitled 03-20-2025 04-58-36_116
+  - first:
+      213: -2018139875412556008
+    second: Untitled 03-20-2025 04-58-36_117
+  - first:
+      213: 3083426982945239286
+    second: Untitled 03-20-2025 04-58-36_118
+  - first:
+      213: 8850438348372064872
+    second: Untitled 03-20-2025 04-58-36_119
+  - first:
+      213: 8007912624602284452
+    second: Untitled 03-20-2025 04-58-36_120
+  - first:
+      213: -3466573447755393681
+    second: Untitled 03-20-2025 04-58-36_121
+  - first:
+      213: 3770522719784141251
+    second: Untitled 03-20-2025 04-58-36_122
+  - first:
+      213: 7220739718802479799
+    second: Untitled 03-20-2025 04-58-36_123
+  - first:
+      213: 7655624629225592891
+    second: Untitled 03-20-2025 04-58-36_124
+  - first:
+      213: 2040299016230338859
+    second: Untitled 03-20-2025 04-58-36_125
+  - first:
+      213: -2868318972595612497
+    second: Untitled 03-20-2025 04-58-36_126
+  - first:
+      213: -1497834874414415242
+    second: Untitled 03-20-2025 04-58-36_127
+  - first:
+      213: -1986570095426326454
+    second: Untitled 03-20-2025 04-58-36_128
+  - first:
+      213: -5793872205713014125
+    second: Untitled 03-20-2025 04-58-36_129
+  - first:
+      213: -1285248212221595903
+    second: Untitled 03-20-2025 04-58-36_130
+  - first:
+      213: -5081482860181398879
+    second: Untitled 03-20-2025 04-58-36_131
+  - first:
+      213: 5648121016320164012
+    second: Untitled 03-20-2025 04-58-36_132
+  - first:
+      213: -2577101686631328711
+    second: Untitled 03-20-2025 04-58-36_133
+  - first:
+      213: -6870094923083840001
+    second: Untitled 03-20-2025 04-58-36_134
+  - first:
+      213: 6509012957604288667
+    second: Untitled 03-20-2025 04-58-36_135
+  - first:
+      213: -9068360112152542637
+    second: Untitled 03-20-2025 04-58-36_136
+  - first:
+      213: 1196620894060677046
+    second: Untitled 03-20-2025 04-58-36_137
+  - first:
+      213: -3977554803708229470
+    second: Untitled 03-20-2025 04-58-36_138
+  - first:
+      213: -7227410348802013614
+    second: Untitled 03-20-2025 04-58-36_139
+  - first:
+      213: -8289958154104250348
+    second: Untitled 03-20-2025 04-58-36_140
+  - first:
+      213: -3434953342002798781
+    second: Untitled 03-20-2025 04-58-36_141
+  - first:
+      213: -1005839685880687990
+    second: Untitled 03-20-2025 04-58-36_142
+  - first:
+      213: 3590262525808578052
+    second: Untitled 03-20-2025 04-58-36_143
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Untitled 03-20-2025 04-58-36_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26bfc234352467d0800000000000000
+      internalID: -2926172951762979286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled 03-20-2025 04-58-36_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6ff3e79609eaf498d7e9565e064383
+      internalID: 8255704592891415460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled 03-20-2025 04-58-36_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077144bc0c1151546a05173edf357619
+      internalID: 6451401998461185874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled 03-20-2025 04-58-36_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8bcd68a650ed548804ea9a1ec0ab79
+      internalID: -3251090977507645766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled 03-20-2025 04-58-36_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaf002657c8f44459a64fa6181c695b
+      internalID: 4901868312572304667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled 03-20-2025 04-58-36_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95299454e7bd13c489acf7f9d41f4258
+      internalID: 3268532011164603500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled 03-20-2025 04-58-36_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4964731073e50a244b3c4585adc73ebd
+      internalID: 1749327828363797209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled 03-20-2025 04-58-36_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3102a937ccfc7448aba9386dcc3176
+      internalID: 8419370597518035122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled 03-20-2025 04-58-36_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ebf9a65cc405142b61fb713dd4c7fe
+      internalID: -3002615855101518829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled 03-20-2025 04-58-36_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3bbe521c54eed44887740f307281cc
+      internalID: -5708133554319204144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled 03-20-2025 04-58-36_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff415bacff7c8f45ad40a3bf655fd65
+      internalID: 2128277999137383740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled 03-20-2025 04-58-36_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c668d5c4d0c75e45a2a5595d5cc83a5
+      internalID: 2097717425872285604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bd406672920889148a456c3d97f70e4a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Untitled 03-20-2025 04-58-36_0: -2926172951762979286
+      Untitled 03-20-2025 04-58-36_1: 8255704592891415460
+      Untitled 03-20-2025 04-58-36_10: 2128277999137383740
+      Untitled 03-20-2025 04-58-36_100: -330165274
+      Untitled 03-20-2025 04-58-36_101: 951932359
+      Untitled 03-20-2025 04-58-36_102: 2009381006
+      Untitled 03-20-2025 04-58-36_103: 646797100
+      Untitled 03-20-2025 04-58-36_104: 579396125
+      Untitled 03-20-2025 04-58-36_105: -554426536
+      Untitled 03-20-2025 04-58-36_106: 815591692
+      Untitled 03-20-2025 04-58-36_107: 792637076
+      Untitled 03-20-2025 04-58-36_108: -1941033993
+      Untitled 03-20-2025 04-58-36_109: 471945297
+      Untitled 03-20-2025 04-58-36_11: 2097717425872285604
+      Untitled 03-20-2025 04-58-36_110: 2084355817
+      Untitled 03-20-2025 04-58-36_111: 2074619036
+      Untitled 03-20-2025 04-58-36_112: -843456317
+      Untitled 03-20-2025 04-58-36_113: -109065877
+      Untitled 03-20-2025 04-58-36_114: -2092396335
+      Untitled 03-20-2025 04-58-36_115: -273348761
+      Untitled 03-20-2025 04-58-36_116: -964700417
+      Untitled 03-20-2025 04-58-36_117: -590347694
+      Untitled 03-20-2025 04-58-36_118: 947214172
+      Untitled 03-20-2025 04-58-36_119: -446797038
+      Untitled 03-20-2025 04-58-36_12: -735966065
+      Untitled 03-20-2025 04-58-36_120: 267965752
+      Untitled 03-20-2025 04-58-36_121: 511432169
+      Untitled 03-20-2025 04-58-36_122: 771249839
+      Untitled 03-20-2025 04-58-36_123: 1735090033
+      Untitled 03-20-2025 04-58-36_124: 771359883
+      Untitled 03-20-2025 04-58-36_125: 814788818
+      Untitled 03-20-2025 04-58-36_126: 1243908547
+      Untitled 03-20-2025 04-58-36_127: -1750609321
+      Untitled 03-20-2025 04-58-36_128: -614587387
+      Untitled 03-20-2025 04-58-36_129: -985959931
+      Untitled 03-20-2025 04-58-36_13: 1819599617
+      Untitled 03-20-2025 04-58-36_130: -730018638
+      Untitled 03-20-2025 04-58-36_131: 10603896
+      Untitled 03-20-2025 04-58-36_132: 1753994722
+      Untitled 03-20-2025 04-58-36_133: 526371737
+      Untitled 03-20-2025 04-58-36_134: 1510438541
+      Untitled 03-20-2025 04-58-36_135: -1409381728
+      Untitled 03-20-2025 04-58-36_136: -271114269
+      Untitled 03-20-2025 04-58-36_137: 394985318
+      Untitled 03-20-2025 04-58-36_138: -496660353
+      Untitled 03-20-2025 04-58-36_139: 1162628364
+      Untitled 03-20-2025 04-58-36_14: 602281231
+      Untitled 03-20-2025 04-58-36_140: -1528389477
+      Untitled 03-20-2025 04-58-36_141: 1800199028
+      Untitled 03-20-2025 04-58-36_142: 641902127
+      Untitled 03-20-2025 04-58-36_143: -1700272476
+      Untitled 03-20-2025 04-58-36_144: 1487069112
+      Untitled 03-20-2025 04-58-36_15: 542064940
+      Untitled 03-20-2025 04-58-36_16: -1723882080
+      Untitled 03-20-2025 04-58-36_17: 185642740
+      Untitled 03-20-2025 04-58-36_18: -1666603155
+      Untitled 03-20-2025 04-58-36_19: -422281202
+      Untitled 03-20-2025 04-58-36_2: 6451401998461185874
+      Untitled 03-20-2025 04-58-36_20: 1724276833
+      Untitled 03-20-2025 04-58-36_21: 248339453
+      Untitled 03-20-2025 04-58-36_22: -361962901
+      Untitled 03-20-2025 04-58-36_23: 1790798394
+      Untitled 03-20-2025 04-58-36_24: 218207722
+      Untitled 03-20-2025 04-58-36_25: -757699953
+      Untitled 03-20-2025 04-58-36_26: -880384448
+      Untitled 03-20-2025 04-58-36_27: -272018305
+      Untitled 03-20-2025 04-58-36_28: -964980912
+      Untitled 03-20-2025 04-58-36_29: 514519472
+      Untitled 03-20-2025 04-58-36_3: -3251090977507645766
+      Untitled 03-20-2025 04-58-36_30: 1797777651
+      Untitled 03-20-2025 04-58-36_31: 1920538682
+      Untitled 03-20-2025 04-58-36_32: -2130311370
+      Untitled 03-20-2025 04-58-36_33: -481079847
+      Untitled 03-20-2025 04-58-36_34: -1836455752
+      Untitled 03-20-2025 04-58-36_35: -1744543486
+      Untitled 03-20-2025 04-58-36_36: 958233063
+      Untitled 03-20-2025 04-58-36_37: 405170041
+      Untitled 03-20-2025 04-58-36_38: -882610379
+      Untitled 03-20-2025 04-58-36_39: 958354076
+      Untitled 03-20-2025 04-58-36_4: 4901868312572304667
+      Untitled 03-20-2025 04-58-36_40: 90178517
+      Untitled 03-20-2025 04-58-36_41: 137512868
+      Untitled 03-20-2025 04-58-36_42: 1489634784
+      Untitled 03-20-2025 04-58-36_43: -1224912040
+      Untitled 03-20-2025 04-58-36_44: 498694464
+      Untitled 03-20-2025 04-58-36_45: 418889106
+      Untitled 03-20-2025 04-58-36_46: -2005119380
+      Untitled 03-20-2025 04-58-36_47: -306599096
+      Untitled 03-20-2025 04-58-36_48: 973075438
+      Untitled 03-20-2025 04-58-36_49: -2090885992
+      Untitled 03-20-2025 04-58-36_5: 3268532011164603500
+      Untitled 03-20-2025 04-58-36_50: -1667476948
+      Untitled 03-20-2025 04-58-36_51: 1276245016
+      Untitled 03-20-2025 04-58-36_52: 1270926485
+      Untitled 03-20-2025 04-58-36_53: -1153433804
+      Untitled 03-20-2025 04-58-36_54: -89455534
+      Untitled 03-20-2025 04-58-36_55: -1477747778
+      Untitled 03-20-2025 04-58-36_56: 481852487
+      Untitled 03-20-2025 04-58-36_57: 1557578255
+      Untitled 03-20-2025 04-58-36_58: -138021415
+      Untitled 03-20-2025 04-58-36_59: -1438846544
+      Untitled 03-20-2025 04-58-36_6: 1749327828363797209
+      Untitled 03-20-2025 04-58-36_60: 780925422
+      Untitled 03-20-2025 04-58-36_61: -1873061825
+      Untitled 03-20-2025 04-58-36_62: 1473227684
+      Untitled 03-20-2025 04-58-36_63: -330706482
+      Untitled 03-20-2025 04-58-36_64: 1930527121
+      Untitled 03-20-2025 04-58-36_65: -1364119239
+      Untitled 03-20-2025 04-58-36_66: -1333108935
+      Untitled 03-20-2025 04-58-36_67: -1323013303
+      Untitled 03-20-2025 04-58-36_68: 666073091
+      Untitled 03-20-2025 04-58-36_69: 1217544334
+      Untitled 03-20-2025 04-58-36_7: 8419370597518035122
+      Untitled 03-20-2025 04-58-36_70: 984203378
+      Untitled 03-20-2025 04-58-36_71: -80533375
+      Untitled 03-20-2025 04-58-36_72: -587534649
+      Untitled 03-20-2025 04-58-36_73: -326671926
+      Untitled 03-20-2025 04-58-36_74: -1897901953
+      Untitled 03-20-2025 04-58-36_75: 863033370
+      Untitled 03-20-2025 04-58-36_76: -1539728591
+      Untitled 03-20-2025 04-58-36_77: 755133763
+      Untitled 03-20-2025 04-58-36_78: 63912809
+      Untitled 03-20-2025 04-58-36_79: -1142759807
+      Untitled 03-20-2025 04-58-36_8: -3002615855101518829
+      Untitled 03-20-2025 04-58-36_80: 561291065
+      Untitled 03-20-2025 04-58-36_81: 4965597
+      Untitled 03-20-2025 04-58-36_82: -1995141350
+      Untitled 03-20-2025 04-58-36_83: 431078529
+      Untitled 03-20-2025 04-58-36_84: 1096148197
+      Untitled 03-20-2025 04-58-36_85: -1192091662
+      Untitled 03-20-2025 04-58-36_86: 811457369
+      Untitled 03-20-2025 04-58-36_87: -1113408326
+      Untitled 03-20-2025 04-58-36_88: -158296124
+      Untitled 03-20-2025 04-58-36_89: -865769717
+      Untitled 03-20-2025 04-58-36_9: -5708133554319204144
+      Untitled 03-20-2025 04-58-36_90: 542874241
+      Untitled 03-20-2025 04-58-36_91: 1418270767
+      Untitled 03-20-2025 04-58-36_92: -2136197333
+      Untitled 03-20-2025 04-58-36_93: -1155816517
+      Untitled 03-20-2025 04-58-36_94: -1497754251
+      Untitled 03-20-2025 04-58-36_95: 2113423010
+      Untitled 03-20-2025 04-58-36_96: -123330728
+      Untitled 03-20-2025 04-58-36_97: -1059509066
+      Untitled 03-20-2025 04-58-36_98: 322732166
+      Untitled 03-20-2025 04-58-36_99: 1638858056
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
