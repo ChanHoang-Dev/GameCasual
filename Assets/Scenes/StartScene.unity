@@ -143,7 +143,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 49375813}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1741bc606d041fb4da21b9a70d50cb2d, type: 3}
   m_Name: 
@@ -5562,10 +5562,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 414d9c402296797418f31c0f8ab88d29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  androidGameId: 6148528
-  iosGameId: 6148529
-  rewardedAdUnit: Rewarded_Android
-  testMode: 1
+  androidAppKey: 273361f85
+  iosAppKey: 273361f85
+  rewardedAdUnitId: k5gp83wqs8u2ott2
+  maxWaitForAdSeconds: 10
+  checkInterval: 0.3
 --- !u!4 &1838905888
 Transform:
   m_ObjectHideFlags: 0

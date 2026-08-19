@@ -5,7 +5,7 @@ public class LevelManager : MonoBehaviour
     public static LevelManager Instance { get; private set; }
 
     private const string UnlockedKey = "MaxLevelUnlocked"; // key lưu trong PlayerPrefs
-    private const int TotalLevels = 2;
+    private const int TotalLevels = 20;
 
     void Awake()
     {
